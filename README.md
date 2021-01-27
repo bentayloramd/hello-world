@@ -1,3 +1,3 @@
 # hello-world
-intro
-Learning about GitHub
+
+Adding some more text and deleting some text.
